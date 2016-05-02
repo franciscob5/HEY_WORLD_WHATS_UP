@@ -156,6 +156,7 @@
 		7541C4831B960B5500EC08D3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = com.sbhs.mobile;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				7541C4AC1B960B5500EC08D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7541C4AD1B960B5500EC08D3 /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				7541C4AF1B960B5500EC08D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
